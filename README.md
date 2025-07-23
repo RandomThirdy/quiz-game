@@ -1,6 +1,6 @@
- <p align="center">
-   <img src="https://raw.githubusercontent.com/RandomThirdy/quiz-game/main/assets/quiz-game.jpg" alt="Quiz Game Preview" width="600"/>
- </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RandomThirdy/quiz-game/main/assets/quiz-game.jpg" alt="Quiz Game Preview" width="600"/>
+</p>
 
 <h1 align="center">Quiz Kaya – Philippine Quiz Game</h1>
 
