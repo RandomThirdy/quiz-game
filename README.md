@@ -1,6 +1,6 @@
  <p align="center">
-    <img src="https://em-content.zobj.net/source/microsoft-teams/363/flag-philippines_1f1f5-1f1ed.png" alt="Quiz Kaya Banner" width="120"/>
-  </p>
+  <img src="https://raw.githubusercontent.com/RandomThirdy/quiz-game/main/assets/quiz-game icon.jpg" alt="Quiz-Game?" width="600"/>  
+ </p>
 
 <h1 align="center">Quiz Kaya – Philippine Quiz Game</h1>
 
