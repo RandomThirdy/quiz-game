@@ -85,4 +85,7 @@ For questions or feedback, reach out via:
 
 **Random Thirdy (Angelito Decatoria III)**
 
+- 🐙 GitHub: [@RandomThirdy](https://github.com/RandomThirdy)  
+**Random Thirdy (Angelito Decatoria III)**
+
 - 🐙
