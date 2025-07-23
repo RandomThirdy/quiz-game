@@ -4,25 +4,31 @@
 
 # 🇵🇭 Quiz Kaya!
 
-A simple, interactive quiz game to test your knowledge of Philippine history and culture.
+A modern, interactive quiz game to challenge your knowledge of Philippine history and culture.
 
 ## Features
 
 - 📝 Multiple choice questions
-- ⚡ Instant feedback on answers
+- ⚡ Real-time feedback
 - 📊 Progress bar and scoring
-- 📱 Responsive design for mobile and desktop
+- 📱 Responsive design for all devices
 
-## How to Run
+## Getting Started
 
-1. Download or clone this repository.
-2. Open `index.html` in your browser.
+Clone the repository and run locally:
+
+```bash
+git clone https://github.com/RandomThirdy/quiz-game.git
+cd quiz-game
+```
+
+Then, open `index.html` in your browser.
 
 ## Controls
 
-- 🖱️ Click "Start Quiz" to begin
+- 🖱️ Click **Start Quiz** to begin
 - 🖱️ Select your answer for each question
-- 🔄 Click "Restart Quiz" to play again
+- 🔄 Click **Restart Quiz** to play again
 
 ## Author
 
