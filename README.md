@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/flag-philippines_1f1f5-1f1ed.png" alt="Quiz Kaya Banner" width="120"/>
-</p>
+ <p align="center">
+    <img src="https://em-content.zobj.net/source/microsoft-teams/363/flag-philippines_1f1f5-1f1ed.png" alt="Quiz Kaya Banner" width="120"/>
+  </p>
 
 <h1 align="center">Quiz Kaya – Philippine Quiz Game</h1>
 
@@ -85,4 +85,7 @@ For questions or feedback, reach out via:
 
 **Random Thirdy (Angelito Decatoria III)**
 
-- 🐙
+- 🐙 GitHub: [@RandomThirdy](https://github.com/RandomThirdy)  
+
+
+
